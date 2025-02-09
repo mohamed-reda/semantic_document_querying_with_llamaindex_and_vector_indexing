@@ -37,12 +37,27 @@ The projects are designed to showcase my expertise in integrating **large langua
 
 1. **Document Query Engine with ChromaDB**: A semantic document querying system that leverages **ChromaDB** for vector storage and retrieval, enabling efficient **similarity-based search** and **response synthesis**.
 
+![1_first_try.png](images/1_first_try.png)
+
+---
+
 2. **Document Indexing and Retrieval**: A scalable solution for **document indexing** and **information retrieval**, utilizing **vector embeddings** and persistent storage to quickly query design goals or other content.
+
+![2_img.png](images/2_img.png)
+
+---
 
 3. **Math Expression Evaluator using ReAct Agent and LLM**: A step-by-step **math expression evaluator** powered by a **ReAct agent** and custom arithmetic tools, demonstrating **tool integration** and **reasoning capabilities** in AI systems.
 
+![3_img_1.png](images/3_img_1.png)
+
+---
+
 4. **Full Conversational Chatbot in CMD**: An interactive **conversational chatbot** built with **LlamaIndex** and **vector indexing**, allowing users to query data through a command-line interface with **contextual understanding**.
 
+![4_img.png](images/4_img.png)
+
+---
 ---
 
 ## Key Features
