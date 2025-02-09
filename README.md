@@ -2,6 +2,7 @@
 
 This repository showcases four projects that demonstrate the power of **LlamaIndex** and **vector indexing** for semantic document querying, retrieval, and conversational AI. These projects highlight my skills as an AI engineer in building scalable, efficient, and intelligent systems for document querying, math expression evaluation, and conversational agents.
 
+
 ---
 
 ## Table of Contents
