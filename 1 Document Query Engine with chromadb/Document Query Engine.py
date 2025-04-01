@@ -7,7 +7,7 @@ import chromadb
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.core import StorageContext
 
-from common_llm_models import setup_models
+from common_local_llm_models_with_llamaindex import setup_models
 
 
 def load_data(directory):
